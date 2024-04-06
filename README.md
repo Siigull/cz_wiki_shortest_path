@@ -1,4 +1,4 @@
-dependencies:
+#dependencies:
 <br>
   pip install selenium
 <br>
